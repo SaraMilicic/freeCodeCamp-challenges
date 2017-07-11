@@ -1,0 +1,89 @@
+body {
+  text-align: center;
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+}
+
+.center-div {
+  background-color: red;
+}
+
+.jumbotron {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.image-container {
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  border:1px solid #d3d3d3;
+}
+
+.image-caption {
+  text-align: center;
+  padding: 10px 4px 10px 4px;
+  margin-bottom: 0px;
+}
+
+.image-prop {
+  width:100%; padding-left:10px; padding-right:10px;
+}
+
+.text-main {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.listing {
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  
+}
+
+.text {
+  text-align: center;
+body {
+  text-align: center;
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+}
+
+.center-div {
+  background-color: red;
+}
+
+.jumbotron {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.image-container {
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  border:1px solid #d3d3d3;
+}
+
+.image-caption {
+  text-align: center;
+  padding: 10px 4px 10px 4px;
+  margin-bottom: 0px;
+}
+
+.image-prop {
+  width:100%; padding-left:10px; padding-right:10px;
+}
+
+.text-main {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.listing {
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  
+}
+
+.text {
+  text-align: center;
+}
